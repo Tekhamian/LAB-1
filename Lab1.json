@@ -1,0 +1,13 @@
+{
+"firstname" : "Robbie",
+"lastname" : "Clobber",
+"username" : "RobClob",
+"post" : [
+"Hey there...! I had a few issues syncing Git",
+"But i figured it out after a few",
+"So here's my submission... Have a great evening",
+],
+"age"	: "120",
+"active"	: true
+
+}
