@@ -1,0 +1,65 @@
+{
+	"name": [
+		"Jareth",
+		"Cydney",
+		"Adden",
+		"Summer",
+		"Xander",
+		"Savion"
+	],
+	"occupation": [
+		"Branding Manager",
+		"UX Designer",
+		"Network Administrator",
+		"3D Animator",
+		"Media Director",
+		"Game Developer"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# #interesting# #resolutions#"
+	],
+	"always": [
+		"always",
+		"continuously",
+		"rarely",
+		"never",
+		"repeatedly",
+		"periodically",
+		"sometimes",
+		"constantly"
+	],
+	"expecting": [
+		"providing",
+		"addressing",
+		"disregarding",
+		"visualizing",
+		"overlooking",
+		"determining",
+		"neglecting",
+		"overlooking"
+	],
+	"resolutions": [
+		"solutions",
+		"problems",
+		"quick-fixes",
+		"results",
+		"answers",
+		"resolutions"
+	],
+	"interesting": [
+		"urgent",
+		"important",
+		"interesting",
+		"trivial",
+		"insignificant",
+		"essential",
+		"unsubstantial",
+		"useless",
+		"uncritical",
+		"dull",
+		"imperative",
+		"crucial",
+		"critical",
+		"serious"
+	]
+}
