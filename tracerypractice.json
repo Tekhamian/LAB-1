@@ -1,3 +1,5 @@
+
+// File one
 {
 	"name": [
 		"Jareth",
@@ -60,5 +62,59 @@
 		"crucial",
 		"critical",
 		"serious"
+	]
+}
+
+
+
+//File two
+{
+	"origin": [
+		"#Famous# #athletic# teams that #haven't# #lost# #games# in the #last# few years "
+	],
+	"lost": [
+		"waste",
+		"conquer",
+		" sacrifice",
+		" forfeit",
+		"win",
+		"secure",
+		"annihilate"
+	],
+	"games": [
+		"the crowd",
+		"games",
+		"championships",
+		"matches"
+	],
+	"last": [
+		"past",
+		" first",
+		" last",
+		" initial",
+		"starting "
+	],
+	"athletic": [
+		"basketball",
+		" football",
+		"baseball",
+		"soccer ",
+		"running"
+	],
+	"haven't": [
+		"usually",
+		"constantly",
+		"never",
+		"rarely",
+		"typically",
+		"customarily"
+	],
+	"Famous": [
+		"Infamous",
+		"Inferior",
+		"Brilliant",
+		"Famous",
+		"Prominent",
+		"Weak"
 	]
 }
